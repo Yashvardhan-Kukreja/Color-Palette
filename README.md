@@ -1,3 +1,2 @@
 # Color-Palette
-Just messing around with OpenCV Python :p
-Just a basic color palette and viewer which chooses color on the basis of RGB values that user specifies through a trackbar.
+Run script.py . To close the output window, Press "Esc". Make sure you have cv2 and numpy installed as your python packages
